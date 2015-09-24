@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gonna Try</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">SilpaNews</string>
+</resources>
